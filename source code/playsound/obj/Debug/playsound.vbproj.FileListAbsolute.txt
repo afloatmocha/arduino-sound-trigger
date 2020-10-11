@@ -1,0 +1,24 @@
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\bin\Debug\playsound.exe.config
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\bin\Debug\playsound.exe
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\bin\Debug\playsound.pdb
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\bin\Debug\playsound.xml
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.vbprojResolveAssemblyReference.cache
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.Form1.resources
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.Resources.resources
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.vbproj.GenerateResource.cache
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.vbproj.CoreCompileInputs.cache
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.exe
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.xml
+C:\Users\tcmur\AppData\Local\Temporary Projects\playsound\obj\Debug\playsound.pdb
+H:\vb.net\playsound\playsound\bin\Debug\playsound.exe.config
+H:\vb.net\playsound\playsound\bin\Debug\playsound.exe
+H:\vb.net\playsound\playsound\bin\Debug\playsound.pdb
+H:\vb.net\playsound\playsound\bin\Debug\playsound.xml
+H:\vb.net\playsound\playsound\obj\Debug\playsound.vbprojResolveAssemblyReference.cache
+H:\vb.net\playsound\playsound\obj\Debug\playsound.Form1.resources
+H:\vb.net\playsound\playsound\obj\Debug\playsound.Resources.resources
+H:\vb.net\playsound\playsound\obj\Debug\playsound.vbproj.GenerateResource.cache
+H:\vb.net\playsound\playsound\obj\Debug\playsound.vbproj.CoreCompileInputs.cache
+H:\vb.net\playsound\playsound\obj\Debug\playsound.exe
+H:\vb.net\playsound\playsound\obj\Debug\playsound.xml
+H:\vb.net\playsound\playsound\obj\Debug\playsound.pdb
